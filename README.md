@@ -1,0 +1,1 @@
+# JavaScript-Zad-1-2
